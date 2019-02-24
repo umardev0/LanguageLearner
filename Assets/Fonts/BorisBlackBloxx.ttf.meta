@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ccdbdfec93754553b1a6aa1ba62588e
+timeCreated: 1508763609
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BorisBlackBloxx
+  fontNames:
+  - BorisBlackBloxx
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

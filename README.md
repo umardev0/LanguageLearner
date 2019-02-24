@@ -1,0 +1,1 @@
+This project was made for Ubiquitous Computing Fundamentals course as a course project in Unity 3d.
